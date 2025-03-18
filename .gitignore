@@ -2,4 +2,4 @@
 .Rhistory
 .RData
 .Ruserdata
-models/.RData
+models/*.RData
