@@ -3,7 +3,6 @@ library(tidyverse)
 library(Hmsc)
 library(ape) # we need this to construct a taxonomic tree
 
-
 #set wd
 localDir = getwd()
 dataDir = file.path(localDir, "data")
